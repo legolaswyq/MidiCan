@@ -1,0 +1,7 @@
+*.npy
+*.mid
+*.pth
+file
+.vscode
+__pycache__
+result
