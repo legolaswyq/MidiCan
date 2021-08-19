@@ -51,8 +51,8 @@ def load_data():
 
 def main():
     is_train = 0
-    is_draw = 0
-    is_sample = 1
+    is_draw = 1
+    is_sample = 0
 
     epochs = 20
     lr = 0.0002
